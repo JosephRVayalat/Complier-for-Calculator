@@ -1,2 +1,4 @@
 # Complier-for-Calculator
-Design and Implementation of a Compiler for a Simple Calculator Language. 
+calculator.c provides parsing table in proper stack,input,action format.
+bth has same logic. 
+difference in output shown.
